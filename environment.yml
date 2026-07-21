@@ -1,0 +1,9 @@
+name: star-jum-splicing
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - star=2.7
+  - samtools=1.20
+  - r-base=4.4
